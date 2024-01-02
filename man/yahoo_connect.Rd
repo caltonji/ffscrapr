@@ -4,7 +4,7 @@
 \alias{yahoo_connect}
 \title{Connect to Yahoo Fantasy Sports League}
 \usage{
-yahoo_connect(league_id = NULL, token = NULL, ...)
+yahoo_connect(league_id = NULL, season = NULL, token = NULL, ...)
 }
 \arguments{
 \item{league_id}{League ID}
